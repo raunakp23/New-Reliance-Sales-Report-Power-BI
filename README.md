@@ -31,8 +31,8 @@ The dashboard helps retail managers monitor growth, profitability, and customer 
 
 ## 📂 Files
 
-* `Reliance_Smart_Sales_Dashboard.pbix` → Power BI dashboard file
-* `Screenshot.png` → Dashboard preview
+* `New Reliance Sales Report.pbix` → Power BI dashboard file
+* `Screenshot 2025-09-04 012708.png` → Dashboard preview
 
 ---
 
@@ -50,7 +50,7 @@ The dashboard helps retail managers monitor growth, profitability, and customer 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Screenshot.png)
+![Dashboard Preview](Screenshot 2025-09-04 012708.png)
 
 ---
 
